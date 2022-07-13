@@ -1,0 +1,15 @@
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.exe
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.deps.json
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.runtimeconfig.json
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.dll
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.pdb
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.dll
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\refint\ClassesExercise1.dll
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.pdb
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.genruntimeconfig.cache
+C:\Users\Joseph\Desktop\Repos\ClassesProject\Exercise1\ClassesExercise1Solution\ClassesExercise1\obj\Debug\net6.0\ref\ClassesExercise1.dll
